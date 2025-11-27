@@ -4,23 +4,25 @@
 
 # https://catskull.net/fun-with-ghostty-shaders.html
 
-
-# window-decoration = none
+window-decoration = none
+# theme = Spacegray
+theme = Solarized Dark Patched
 # background = #1b1d22
 # background = #2E3440
 keybind = shift+enter=text:\n
 font-size = 18
-background-opacity = 0.9
-background-blur = true
+# background-opacity = 0.9
+# background-blur = true
 window-padding-x = 16
 window-padding-y = 16
-window-height = 33
-window-width = 80
+# window-height = 33
+# window-width = 80
 command = /bin/sh -c "/opt/homebrew/bin/tmux a || /opt/homebrew/bin/tmux"
 # command = /opt/homebrew/bin/fish
 quit-after-last-window-closed = true
 mouse-hide-while-typing = true
-# macos-titlebar-style = tabs
-custom-shader = ~/.ghostty-shaders/bloom.glsl
-custom-shader = ~/.ghostty-shaders/tft.glsl
-custom-shader = ~/.ghostty-shaders/retro-terminal.glsl
+# custom-shader = ~/.ghostty-shaders/bettercrt.glsl
+# custom-shader = ~/.ghostty-shaders/retro-terminal.glsl
+# custom-shader = ~/.ghostty-shaders/tft.glsl
+# custom-shader = ~/.ghostty-shaders/bloom.glsl
+# custom-shader = ~/.ghostty-shaders/cursor_blaze.glsl
