@@ -1,0 +1,17 @@
+https://gist.github.com/SebastianGrans/26e41b6e050de385775d5eaffbb83049
+
+Emulate the behaviour of the Wikiwand extension in Safari 13 using an AdGuard JavaScript filter
+
+# Since Safari 13 the Wikiwand plugin is no longer available and they
+# don't even list Safari as a supported browser anymore.
+#
+# Most people use some kind of ad blocker, and personally I'm using "AdGuard for Safari" which allows you
+# to define filters that inject javascript code on certain domains.
+#
+# Simply add this to AdGuards "User filter", and any wikipedia article will be redirected to Wikiwand.
+#
+
+@@||wikipedia.org^$generichide,badfilter
+wikipedia.org#%#if (window.location.search === "") { var lang = window.location.hostname.split('.')[0]; var article = window.location.pathname.split('/')[2]; window.location.href = "http://www.wikiwand.com/" + lang + "/" + article; }
+
+

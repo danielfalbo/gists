@@ -1,0 +1,52 @@
+https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31
+
+build & run:
+
+bash:
+
+SDK_PATH=$(xcrun --sdk iphonesimulator --show-sdk-path)
+
+# Compile assembly
+xcrun -sdk iphonesimulator as -o build/main.o src/main.s
+
+xcrun -sdk iphonesimulator ld \
+  -e _main \
+  -o build/assembly-app \
+  -L"$SDK_PATH/usr/lib" \
+  -F"$SDK_PATH/System/Library/Frameworks" \
+  -lSystem \
+  -lobjc \
+  -framework UIKit \
+  -framework Foundation \
+  -framework CoreFoundation \
+  build/main.o
+
+
+mkdir -p build/assembly-app.app
+cp build/assembly-app build/assembly-app.app/AssemblyApp
+cp Info.plist build/assembly-app.app/
+xcrun simctl install booted build/assembly-app.app
+xcrun simctl launch booted com.example.AssemblyApp
+
+plist:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>AssemblyApp</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.example.AssemblyApp</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>AssemblyApp</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+</dict>
+</plist>
