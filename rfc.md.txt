@@ -1,0 +1,11 @@
+Analyze the following problem, and ask me questions to help me understand the problem better.
+
+The problem is: $ARGUMENTS
+
+Propose at least 3 alternatives, each one with pros and cons, and each pro and cons define if it is CRITICAL/MAJOR/MEDIUM/MINOR.
+
+If the project would require new classes, read the project tree to understand the existing files.
+
+ask me any question before starting implementing
+
+Think again what should be better aligned with KISS, YAGNI, DRY, SOLID, etc.

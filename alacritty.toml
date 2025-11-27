@@ -1,0 +1,82 @@
+# ~/.alacritty.toml
+
+# brew install font-jetbrains-mono-nerd-font
+
+# mkdir -p ~/.config/alacritty/themes
+# git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+
+[general]
+import = [
+    # "~/.config/alacritty/themes/themes/smooth.toml"
+    # "~/.config/alacritty/themes/themes/thelovelace.toml"
+    # "~/.config/alacritty/themes/themes/tokyo_night.toml"
+    # "~/.config/alacritty/themes/themes/one_dark.toml"
+    # "~/.config/alacritty/themes/themes/nord.toml"
+    "~/.config/alacritty/themes/themes/nordfox.toml"
+]
+
+[terminal.shell]
+program = "/opt/homebrew/bin/fish"
+# program = "/bin/bash"
+args = ["-c", "/opt/homebrew/bin/tmux a || /opt/homebrew/bin/tmux"]
+
+[window]
+decorations = "none"
+# opacity = 0.1
+# blur = true
+padding = { x = 16, y = 16 }
+position = { x = 546, y = 524 }
+dimensions = { columns = 82, lines = 33 }
+
+# [colors.primary]
+# background = '#2E3440'
+# background = '#111418'
+# background = '#1c1c1c'
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+size = 18.0
+
+# [[keyboard.bindings]]
+# key = "Left"
+# mods = "Alt"
+# chars = "\u001bb"    # Skip word left
+#
+# [[keyboard.bindings]]
+# key = "Right"
+# mods = "Alt"
+# chars = "\u001bf"    # Skip word right
+#
+# [[keyboard.bindings]]
+# key = "Left"
+# mods = "Command"
+# chars = "\u001bOH"
+# mode = "AppCursor"   # Home
+#
+# [[keyboard.bindings]]
+# key = "Right"
+# mods = "Command"
+# chars = "\u001bOF"
+# mode = "AppCursor"   # End
+#
+# [[keyboard.bindings]]
+# key = "Back"
+# mods = "Command"
+# chars = "\u0015"     # Delete line
+#
+# [[keyboard.bindings]]
+# key = "Back"
+# mods = "Alt"
+# chars = "\u001b\u007f"   # Delete word
+#
+# [[keyboard.bindings]]
+# key = "Q"
+# mods = "Command"
+# action = "None"
+#
+# [[keyboard.bindings]]
+# key = "W"
+# mods = "Command"
+# action = "None"
