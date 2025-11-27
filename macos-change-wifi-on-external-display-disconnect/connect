@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+#
+# connect
+#
+open -a Lunar
+networksetup -setairportnetwork en0 $SSID $PASSWORD

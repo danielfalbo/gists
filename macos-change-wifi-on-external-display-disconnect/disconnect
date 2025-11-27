@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+#
+# disconnect
+#
+killall Lunar
+networksetup -setairportnetwork en0 $SSID $PASSWORD
