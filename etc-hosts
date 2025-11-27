@@ -1,0 +1,17 @@
+##
+# Host Database
+#
+# /etc/hosts
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+# Block distracting websites
+127.0.0.1   news.ycombinator.com
+0:0:0:0:0:FFFF:7F00:0001 news.ycombinator.com
+127.0.0.1 substack.com
+0:0:0:0:0:FFFF:7F00:0001 substack.com
