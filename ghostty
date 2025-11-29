@@ -5,8 +5,10 @@
 # https://catskull.net/fun-with-ghostty-shaders.html
 
 window-decoration = none
+# >_ ghostty +list-themes
+theme = Nordfox
 # theme = Spacegray
-theme = Solarized Dark Patched
+# theme = Solarized Dark Patched
 # background = #1b1d22
 # background = #2E3440
 keybind = shift+enter=text:\n
