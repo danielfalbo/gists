@@ -12,3 +12,7 @@ ln -sf "${BASEDIR}/alacritty.toml" ~/.alacritty.toml
 mkdir -p ~/Library/Application\ Support/com.mitchellh.ghostty/
 /bin/rm -f ~/Library/Application\ Support/com.mitchellh.ghostty/config
 ln -sf "${BASEDIR}/ghostty" ~/Library/Application\ Support/com.mitchellh.ghostty/config
+
+mkdir -p ~/.config/fish/conf.d/
+/bin/rm -f ~/.config/fish/conf.d/login.fish
+ln -sf "${BASEDIR}/login.fish" ~/.config/fish/conf.d/login.fish
