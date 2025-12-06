@@ -6,6 +6,18 @@ cd "${BASEDIR}"
 /bin/rm -f ~/.tmux.conf
 ln -sf "${BASEDIR}/tmux.conf" ~/.tmux.conf
 
+/bin/rm -f ~/.tmux.conf.nord-dark
+ln -sf "${BASEDIR}/tmux.conf.nord-dark" ~/.tmux.conf.nord-dark
+
+/bin/rm -f ~/.tmux.conf.nord-light
+ln -sf "${BASEDIR}/tmux.conf.nord-light" ~/.tmux.conf.nord-light
+
+/bin/rm -f ~/.tmux.conf.solarized-dark
+ln -sf "${BASEDIR}/tmux.conf.solarized-dark" ~/.tmux.conf.solarized-dark
+
+/bin/rm -f ~/.tmux.conf.solarized-light
+ln -sf "${BASEDIR}/tmux.conf.solarized-light" ~/.tmux.conf.solarized-light
+
 /bin/rm -f ~/.alacritty.toml
 ln -sf "${BASEDIR}/alacritty.toml" ~/.alacritty.toml
 
