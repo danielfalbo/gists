@@ -6,13 +6,13 @@
 
 window-decoration = none
 # >_ ghostty +list-themes
-theme = Nordfox
+theme = light:Dayfox, dark:Nordfox
 # theme = Spacegray
 # theme = Solarized Dark Patched
 # background = #1b1d22
 # background = #2E3440
 keybind = shift+enter=text:\n
-# font-size = 18
+font-size = 15
 # background-opacity = 0.9
 # background-blur = true
 window-padding-x = 16
