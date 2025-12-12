@@ -4,7 +4,7 @@
 
 # https://catskull.net/fun-with-ghostty-shaders.html
 
-window-decoration = none
+# window-decoration = none
 # >_ ghostty +list-themes
 theme = light:Dayfox, dark:Nordfox
 # theme = Spacegray
