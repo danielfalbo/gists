@@ -27,7 +27,6 @@ set expandtab
 set incsearch           " incremental search
 set ignorecase		" ignore the case
 set smartcase           " don't ignore the case if the pattern is uppercase
-set laststatus=2        " show the status bar even with one buffer
 set ruler               " show cursor position
 set autoindent
 set backspace=2
@@ -43,21 +42,6 @@ autocmd BufReadPost *
 
 let loaded_matchparen = 1   " Avoid the loading of match paren plugin
 filetype plugin on
-
-hi User1 ctermfg=green ctermbg=NONE
-hi User2 ctermfg=yellow ctermbg=NONE
-hi User3 ctermfg=red ctermbg=NONE
-hi User4 ctermfg=blue ctermbg=NONE
-hi User5 ctermfg=white ctermbg=NONE
-
-set statusline=
-set statusline +=%1*\ %n\ %*            "buffer number
-set statusline +=%5*%{&ff}%*            "file format
-set statusline +=%3*%y%*                "file type
-set statusline +=%4*\ %<%F%*            "full path
-set statusline +=%2*%m%*                "modified flag
-set statusline +=%1*%=%5l%*             "current line
-set statusline +=%2*/%L\ %*             "total lines
 
 set clipboard=unnamed                   " macos system clipboard
 
@@ -87,3 +71,23 @@ set ttimeoutlen=10
 if filereadable(".vimrc.local")
   source .vimrc.local
 endif
+
+" show the status bar even with one buffer
+set laststatus=2
+
+hi User1 ctermfg=green ctermbg=black
+hi User2 ctermfg=yellow ctermbg=black
+hi User3 ctermfg=red ctermbg=black
+hi User4 ctermfg=blue ctermbg=black
+hi User5 ctermfg=white ctermbg=black
+
+set statusline=
+set statusline +=%1*\ %n\ %*            "buffer number
+set statusline +=%5*%{&ff}%*            "file format
+set statusline +=%3*%y%*                "file type
+set statusline +=%4*\ %<%F%*            "full path
+set statusline +=%2*%m%*                "modified flag
+set statusline +=%1*%=%5l%*             "current line
+set statusline +=%2*/%L%*               "total lines
+set statusline +=%1*%4v\ %*             "virtual column number
+set statusline +=%2*0x%04B\ %*          "character under cursor
