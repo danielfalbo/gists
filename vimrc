@@ -19,8 +19,9 @@ nnoremap <S-Tab> :bprevious<CR>
 
 noremap <silent><cr> :wa<cr>
 
-set softtabstop=4
-set shiftwidth=4
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 set expandtab
 
 set incsearch           " incremental search
