@@ -12,13 +12,13 @@ theme = light:Dayfox, dark:Nordfox
 # background = #1b1d22
 # background = #2E3440
 keybind = shift+enter=text:\n
-font-size = 15
+font-size = 16
 # background-opacity = 0.9
 # background-blur = true
 window-padding-x = 16
 window-padding-y = 16
-# window-height = 33
-# window-width = 80
+window-height = 36
+window-width = 80
 command = /bin/sh -c "/opt/homebrew/bin/tmux a || /opt/homebrew/bin/tmux"
 # command = /opt/homebrew/bin/fish
 quit-after-last-window-closed = true
