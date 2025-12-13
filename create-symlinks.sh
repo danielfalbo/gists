@@ -6,6 +6,9 @@ cd "${BASEDIR}"
 /bin/rm -f ~/.vimrc
 ln -sf "${BASEDIR}/vimrc" ~/.vimrc
 
+/bin/rm -f ~/.zshrc
+ln -sf "${BASEDIR}/zshrc" ~/.zshrc
+
 /bin/rm -f ~/.tmux.conf
 ln -sf "${BASEDIR}/tmux.conf" ~/.tmux.conf
 
