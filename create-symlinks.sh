@@ -3,9 +3,6 @@
 BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "${BASEDIR}"
 
-/bin/rm -f ~/.vimrc
-ln -sf "${BASEDIR}/vimrc" ~/.vimrc
-
 /bin/rm -f ~/.zshrc
 ln -sf "${BASEDIR}/zshrc" ~/.zshrc
 
