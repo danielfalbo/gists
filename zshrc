@@ -4,7 +4,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 export CLICOLOR=1
 
-PROMPT='%F{141}%~%(?.%F{reset}.%F{red}) $ %F{reset}'
+PROMPT='%F{green}%c%(?.%F{reset}.%F{red}) » %F{reset}'
 
 source ${HOMEBREW_PREFIX}/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ${HOMEBREW_PREFIX}/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
