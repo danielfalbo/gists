@@ -13,3 +13,5 @@ ln -sf "${BASEDIR}/ghostty" ~/Library/Application\ Support/com.mitchellh.ghostty
 mkdir -p ~/.newsboat/
 /bin/rm -f ~/.newsboat/urls
 ln -sf "${BASEDIR}/urls" ~/.newsboat/urls
+/bin/rm -f ~/.newsboat/config
+ln -sf "${BASEDIR}/newsboat-config" ~/.newsboat/config

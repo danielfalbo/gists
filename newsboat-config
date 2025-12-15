@@ -1,0 +1,4 @@
+# ~/.newsboat/config
+
+# Automatically update feeds when Newsboat starts
+auto-reload yes

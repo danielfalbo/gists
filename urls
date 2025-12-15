@@ -1,19 +1,8 @@
 # ~/.newsboat/urls
 
-# --- News and Tech Feeds ---
+# antirez
+https://antirez.com/rss
+https://youtube.com/feeds/videos.xml?channel_id=UCDDG9vOcmgwlslJJpCWjqOg
 
-# Hacker News front page - very high volume
-https://hnrss.org/frontpage
-
-# Linux and open source news
-https://lwn.net/headlines/newrss
-
-# --- Podcasts (with tags) ---
-
-# My favorite Linux podcast
-https://podcast.url/feed.xml linux podcast
-
-# --- Personal Feeds ---
-
-# Local file for internal events
-file:///var/log/rss_eventlog.xml internal
+# mr rip
+https://youtube.com/feeds/videos.xml?channel_id=UCBOtZaVafz_5OmUrqJAVStQ
