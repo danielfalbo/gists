@@ -5,3 +5,13 @@ browser "open %u"
 
 # Automatically update feeds when Newsboat starts
 auto-reload yes
+
+# Focused Item stlye: white text, black background.
+color listfocus white black
+color listfocus_unread white black bold
+
+# Hints Bar (Bottom) style: white text, black background.
+color info white black
+
+# Top Bar (Title/Date/Version) style: white text, black background.
+color title white black bold
