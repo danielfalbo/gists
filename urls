@@ -3,6 +3,7 @@
 # antirez
 https://antirez.com/rss
 https://youtube.com/feeds/videos.xml?channel_id=UCDDG9vOcmgwlslJJpCWjqOg
+https://bsky.app/profile/antirez.bsky.social/rss
 
 # mr rip
 https://retireinprogress.com/feed/
@@ -128,3 +129,14 @@ https://thezvi.wordpress.com/feed/
 
 # Terence Eden
 https://shkspr.mobi/blog/feed/atom/
+
+# Terrence Tao
+https://terrytao.wordpress.com/feed/
+https://mathstodon.xyz/@tao.rss
+
+# HN misc
+https://hnrss.org/frontpage?points=500
+https://hnrss.org/bestcomments
+
+# Pierce Freeman
+https://pierce.dev/rss.xml
