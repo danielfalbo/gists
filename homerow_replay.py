@@ -4,6 +4,9 @@
 # ]
 # ///
 
+# >_ brew install --cask homerow
+# >_ open -a Brave\ Browser && uv run homerow_replay.py
+
 import time
 import pyautogui
 
