@@ -4,6 +4,7 @@
 https://antirez.com/rss
 https://youtube.com/feeds/videos.xml?channel_id=UCDDG9vOcmgwlslJJpCWjqOg
 https://bsky.app/profile/antirez.bsky.social/rss
+https://hnrss.org/user?id=antirez
 
 # mr rip
 https://retireinprogress.com/feed/
@@ -162,3 +163,13 @@ https://youtube.com/feeds/videos.xml?channel_id=UC1DK1emDs_9d6yU5SRs8L6w
 
 # epic spaceman
 https://www.youtube.com/feeds/videos.xml?channel_id=UClYDoTmBdnafBCHhnUCqvtw
+
+# ychn users
+https://hnrss.org/user?id=bellard
+https://hnrss.org/user?id=johncarmack
+https://hnrss.org/user?id=drh
+https://hnrss.org/user?id=patio11
+https://hnrss.org/user?id=danluu
+ttps://hnrss.org/user?id=jvns
+https://hnrss.org/user?id=pg
+https://hnrss.org/user?id=cperciva
