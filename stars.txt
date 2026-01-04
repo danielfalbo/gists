@@ -1,313 +1,314 @@
-ertdfgcvb/play.core: https://github.com/ertdfgcvb/play.core?tab=readme-ov-file
-thesquareplanet.com: github.com/jonhoo/thesquareplanet.com
-thesecretlivesofdata: github.com/benbjohnson/thesecretlivesofdata
-raft.github.io: github.com/raft/raft.github.io
-lispv: github.com/iacobucci/lispv
-Mole: github.com/tw93/Mole
-How-To-Secure-A-Linux-Server: github.com/imthenachoman/How-To-Secure-A-Linux-Server
-exo: github.com/exo-explore/exo
-craftinginterpreters: github.com/munificent/craftinginterpreters
-blog_os: github.com/andrea-berling/blog_os
-openevolve: github.com/algorithmicsuperintelligence/openevolve
-tvterm: github.com/magiblot/tvterm
-magic-wormhole: github.com/magic-wormhole/magic-wormhole
-history-llms: github.com/DGoettlich/history-llms
-newsraft: github.com/newsraft/newsraft
-ttyd: github.com/tsl0922/ttyd
-sqlit: github.com/Maxteabag/sqlit
-visualisations: github.com/samwho/visualisations
-f1-race-replay: github.com/IAmTomShaw/f1-race-replay
-chafa: github.com/hpjansson/chafa
-jorge: github.com/facundoolano/jorge
-dodeca: github.com/bearcove/dodeca
-tree-sitter: github.com/tree-sitter/tree-sitter
-toyforth: github.com/antirez/toyforth
-tucl: github.com/susam/tucl
-mvs: github.com/susam/mvs
-awesome-pico-calc: github.com/jblanked/awesome-pico-calc
-ddd-kit: github.com/gabwithcli/ddd-kit
-wish: github.com/charmbracelet/wish
-glow: github.com/charmbracelet/glow
-sqlite-wasm: github.com/sqlite/sqlite-wasm
-TomatoBar: github.com/ivoronin/TomatoBar
-historical-redis-versions: github.com/antirez/historical-redis-versions
-word2vec: github.com/tmikolov/word2vec
-stonky: github.com/antirez/stonky
-botlib: github.com/antirez/botlib
-dotfiles: github.com/naltun/dotfiles
-hashmap.h: github.com/sheredom/hashmap.h
-c_hashmap: github.com/petewarden/c_hashmap
-slurm: github.com/SchedMD/slurm
-learning-diffusion: github.com/ludocomito/learning-diffusion
-blog-quest: github.com/robalexdev/blog-quest
-streetpass: github.com/tvler/streetpass
-hpmor: github.com/rrthomas/hpmor
-1brc: github.com/gunnarmorling/1brc
-libcs50: github.com/cs50/libcs50
-abc-unix: github.com/gvanrossum/abc-unix
-Signal-iOS: github.com/signalapp/Signal-iOS
-tigerbeetle: github.com/tigerbeetle/tigerbeetle
-memory-mountain: github.com/kelvinou01/memory-mountain
-winner: github.com/ioccc-src/winner
-blockchain-demo: github.com/anders94/blockchain-demo
-ghostty-shaders: github.com/0xhckr/ghostty-shaders
-smartcommit: github.com/arpxspace/smartcommit
-Archive.org-Downloader: github.com/MiniGlome/Archive.org-Downloader
-RESP3: github.com/antirez/RESP3
-wealthfolio: github.com/afadil/wealthfolio
-animate-lean-proofs: github.com/dwrensha/animate-lean-proofs
-yjs: github.com/yjs/yjs
-gnatstudio: github.com/AdaCore/gnatstudio
-spark2014: github.com/AdaCore/spark2014
-dafny: github.com/dafny-lang/dafny
-liquidhaskell: github.com/ucsd-progsys/liquidhaskell
-very_simple_compiler: github.com/kuterd/very_simple_compiler
-react-fiber-architecture: github.com/acdlite/react-fiber-architecture
-nginx: github.com/nginx/nginx
-blender: github.com/blender/blender
-emscripten: github.com/emscripten-core/emscripten
-ffmpeg.wasm: github.com/ffmpegwasm/ffmpeg.wasm
-js-framework-benchmark: github.com/krausest/js-framework-benchmark
-Postream: github.com/AlessandroTambellini/Postream
-dump1090: github.com/antirez/dump1090
-hacker-test-history: github.com/hwayne/hacker-test-history
-learntla-v2: github.com/hwayne/learntla-v2
-lets-prove-leftpad: github.com/hwayne/lets-prove-leftpad
-perkeep: github.com/perkeep/perkeep
-libfuse: github.com/libfuse/libfuse
-librepods: github.com/kavishdevar/librepods
-datanomy: github.com/raulcd/datanomy
-m1n1: github.com/AsahiLinux/m1n1
-sway: github.com/swaywm/sway
-hnstyle: github.com/antirez/hnstyle
-backpropagation: github.com/purupuddu/backpropagation
-stuff: github.com/edomora97/stuff
-42-cursus: github.com/purupuddu/42-cursus
-booklet: github.com/cp-sapienza/booklet
-gomorra-sql: github.com/aurasphere/gomorra-sql
-tabloid: github.com/thesephist/tabloid
-writerdeckOS: github.com/tinkersec/writerdeckOS
-transferwee: github.com/iamleot/transferwee
-c: github.com/little-book-of/c
-bioinformatics: github.com/ossu/bioinformatics
-libdb: github.com/berkeleydb/libdb
-how-did-i-get-here: github.com/hackclub/how-did-i-get-here
-db_tutorial: github.com/cstack/db_tutorial
-boltz: github.com/jwohlwend/boltz
-videos: github.com/xiaoxiae/videos
-sqlite2-btree-visualizer: github.com/antoniosarosi/sqlite2-btree-visualizer
-fil-c: github.com/pizlonator/fil-c
-wa-tunnel: github.com/aleixrodriala/wa-tunnel
-spy: github.com/spylang/spy
-iPhoneTracker: github.com/petewarden/iPhoneTracker
-neural-redis: github.com/antirez/neural-redis
-disque: github.com/antirez/disque
-otree: github.com/antirez/otree
-LLM-FTC-sampling: github.com/antirez/LLM-FTC-sampling
-micropython: github.com/micropython/micropython
-kill-the-newsletter: github.com/leafac/kill-the-newsletter
-XQuartz: github.com/XQuartz/XQuartz
-autoapp: github.com/s1liconcow/autoapp
-nokode: github.com/samrolken/nokode
-dnsguide: github.com/EmilHernvall/dnsguide
-99-problems: github.com/extesy/99-problems
-hoverzoom: github.com/extesy/hoverzoom
-CBasediOSApp: github.com/richardjrossiii/CBasediOSApp
-didact: github.com/pomber/didact
-cappuccino: github.com/cappuccino/cappuccino
-xournalpp: github.com/xournalpp/xournalpp
-outcome: github.com/python-trio/outcome
-loro: github.com/loro-dev/loro
-bash-screensavers: github.com/attogram/bash-screensavers
-kvm: github.com/jetkvm/kvm
-obs-studio: github.com/obsproject/obs-studio
-recall-for-linux: github.com/rolflobker/recall-for-linux
-wasm-by-example: github.com/torch2424/wasm-by-example
-agent-lightning: github.com/microsoft/agent-lightning
-lit: github.com/lit/lit
-strudel: github.com/tidalcycles/strudel
-Tidal: github.com/tidalcycles/Tidal
-macos-live-screensaver: github.com/hauxir/macos-live-screensaver
-sivers: github.com/sivers/sivers
-morpholib: github.com/morpho-matters/morpholib
-LLM101n: github.com/karpathy/LLM101n
-graham-essays: github.com/ofou/graham-essays
-awesome-RLVR: github.com/opendilab/awesome-RLVR
-vi: github.com/Cube9999/vi
-awesome-selfhosted: github.com/awesome-selfhosted/awesome-selfhosted
-teamtype: github.com/teamtype/teamtype
-spec-kit: github.com/github/spec-kit
-sketch-waterhole: github.com/partykit/sketch-waterhole
-llm_engineering: github.com/ed-donner/llm_engineering
-patdiff: github.com/janestreet/patdiff
-async: github.com/janestreet/async
-RedisGraph: github.com/RedisGraph/RedisGraph
-os-from-scratch: github.com/gpjt/os-from-scratch
-llm-from-scratch: github.com/gpjt/llm-from-scratch
-unix-history-repo: github.com/dspinellis/unix-history-repo
-cambridge-cli: github.com/mburakerman/cambridge-cli
-minimal-dictionary: github.com/d3uceY/minimal-dictionary
-edex-ui: github.com/GitSquared/edex-ui
-AmigaMidiRec: github.com/wertstahl/AmigaMidiRec
-aspipes: github.com/irony/aspipes
-LidAngleSensor: github.com/samhenrigold/LidAngleSensor
-sbstck-dl: github.com/alexferrari88/sbstck-dl
-ros2: github.com/ros2/ros2
-awesome-deterministic-simulation-testing: github.com/ivanyu/awesome-deterministic-simulation-testing
-manim-dsa: github.com/F4bbi/manim-dsa
-LuLu: github.com/objective-see/LuLu
-vimac: github.com/nchudleigh/vimac
-30-seconds-of-interviews: github.com/Chalarangelo/30-seconds-of-interviews
-one-goal: github.com/timqian/one-goal
-hackernews-daily: github.com/headllines/hackernews-daily
-ncsa-mosaic: github.com/alandipert/ncsa-mosaic
-os-tutorial: github.com/cfenollosa/os-tutorial
-ameliorate: github.com/amelioro/ameliorate
-carryless: github.com/eze-kiel/carryless
-typegres: github.com/ryanrasti/typegres
-kete: github.com/dahlend/kete
-snake: github.com/epidemian/snake
-LosslessSwitcher: github.com/vincentneo/LosslessSwitcher
-BlackHole: github.com/ExistentialAudio/BlackHole
-ollama: github.com/ollama/ollama
-Dayflow: github.com/JerryZLiu/Dayflow
-sonshell: github.com/goudvuur/sonshell
-yt-dlp: github.com/yt-dlp/yt-dlp
-dotfiles: github.com/keith/dotfiles
-awesome-falsehood: github.com/kdeldycke/awesome-falsehood
-every-programmer-should-know: github.com/mtdvio/every-programmer-should-know
-paulxstretch: github.com/essej/paulxstretch
-mapscii: github.com/rastapasta/mapscii
-slidev: github.com/slidevjs/slidev
-homebrew-zathura: github.com/homebrew-zathura/homebrew-zathura
-zathura: github.com/pwmt/zathura
-sympy: github.com/sympy/sympy
-braincraft: github.com/rougier/braincraft
-Awesome-CV: github.com/posquit0/Awesome-CV
-gaggiuino: github.com/Zer0-bit/gaggiuino
-unicorn: github.com/defunkt/unicorn
-cognitive-load: github.com/zakirullin/cognitive-load
-jj-for-everyone.github.io: github.com/jj-for-everyone/jj-for-everyone.github.io
-awesome-programming-competitions: github.com/truell20/awesome-programming-competitions
-reader: github.com/jina-ai/reader
-cm: github.com/xcaeser/cm
-ubon: github.com/luisfer/ubon
-trystero: github.com/dmotz/trystero
-picoGPT: github.com/jaymody/picoGPT
-llama2.c: github.com/karpathy/llama2.c
-BlogTech: github.com/cozis/BlogTech
-fossjobs: github.com/fossjobs/fossjobs
-opendbc: github.com/commaai/opendbc
-revup: github.com/Skydio/revup
-iron: github.com/janestreet/iron
-lamernews: github.com/antirez/lamernews
-sds: github.com/antirez/sds
-FFmpeg: github.com/FFmpeg/FFmpeg
-asm-lessons: github.com/FFmpeg/asm-lessons
-photoshop-python-api-mcp-server: github.com/loonghao/photoshop-python-api-mcp-server
-adb-mcp: github.com/mikechambers/adb-mcp
-davinci-resolve-mcp: github.com/apvlv/davinci-resolve-mcp
-davinci-resolve-mcp: github.com/samuelgursky/davinci-resolve-mcp
-apprise: github.com/caronc/apprise
-mini-lsm: github.com/skyzh/mini-lsm
-skhd.zig: github.com/jackielii/skhd.zig
-typioca: github.com/bloznelis/typioca
-scaling-book: github.com/jax-ml/scaling-book
-periodic-table: github.com/jarulraj/periodic-table
-skhd: github.com/asmvik/skhd
-aura: github.com/osmandkitay/aura
-Cap: github.com/CapSoftware/Cap
-spark: github.com/apache/spark
-conjure: github.com/palantir/conjure
-plottable: github.com/palantir/plottable
-blueprint: github.com/palantir/blueprint
-ai-notebooks: github.com/geohot/ai-notebooks
-corona: github.com/geohot/corona
-minikeyvalue: github.com/geohot/minikeyvalue
-configuration: github.com/geohot/configuration
-swift-composable-architecture: github.com/pointfreeco/swift-composable-architecture
-trpc: github.com/trpc/trpc
-kedro: github.com/kedro-org/kedro
-dotfiles: github.com/anishathalye/dotfiles
-redis: github.com/redis/redis
-TorchLeet: github.com/Exorust/TorchLeet
-OpenCut: github.com/OpenCut-app/OpenCut
-human-use: github.com/RapidataAI/human-use
-ML-and-DataScience-preparation: github.com/leadthefuture/ML-and-DataScience-preparation
-kbot: github.com/kscalelabs/kbot
-yabai-stack-navigator: github.com/sendhil/yabai-stack-navigator
-qutebrowser: github.com/qutebrowser/qutebrowser
-yabai: github.com/asmvik/yabai
-storm: github.com/stanford-oval/storm
-README: github.com/swyxio/README
-ai-notes: github.com/swyxio/ai-notes
-system-prompts-and-models-of-ai-tools: github.com/x1xhlol/system-prompts-and-models-of-ai-tools
-leaked-system-prompts: github.com/jujumilk3/leaked-system-prompts
-beyond-nanogpt: github.com/tanishqkumar/beyond-nanogpt
-ai-baby-monitor: github.com/zeenolife/ai-baby-monitor
-svn-mirror: github.com/VICE-Team/svn-mirror
-at.hn: github.com/padolsey/at.hn
-searxng: github.com/searxng/searxng
-samurai: github.com/zsxkib/samurai
-de-pixelate_gaV-O6NPWrI: github.com/KoKuToru/de-pixelate_gaV-O6NPWrI
-deduce: github.com/jsiek/deduce
-ai-terminal: github.com/AiTerminalFoundation/ai-terminal
-ttt-rl: github.com/antirez/ttt-rl
-agents-json: github.com/wild-card-ai/agents-json
-masked-face: github.com/TiaBerte/masked-face
-AI-Crash-Course: github.com/henrythe9th/AI-Crash-Course
-pdfsyntax: github.com/desgeeko/pdfsyntax
-kilo: github.com/antirez/kilo
-libmodulor: github.com/c100k/libmodulor
-stripe-recommendations: github.com/t3dotgg/stripe-recommendations
-type-challenges: github.com/type-challenges/type-challenges
-pdftris: github.com/ThomasRinsma/pdftris
-dvd-screensaver-website: github.com/afroald/dvd-screensaver-website
-system-design-primer: github.com/donnemartin/system-design-primer
-postgres_for_everything: github.com/Olshansk/postgres_for_everything
-Z-Ant: github.com/ZantFoundation/Z-Ant
-fast-graphrag: github.com/circlemind-ai/fast-graphrag
-maybe: github.com/maybe-finance/maybe
-titledrops.net: github.com/dominikus/titledrops.net
-chain-of-thought-hub: github.com/FranxYao/chain-of-thought-hub
-AIXP: github.com/davila7/AIXP
-awesome-drug-discovery: github.com/xnuohz/awesome-drug-discovery
-practical-fm: github.com/ligurio/practical-fm
-GPU-Puzzles: github.com/dshah3/GPU-Puzzles
-Metal-Puzzles: github.com/abeleinin/Metal-Puzzles
-minitorch: github.com/minitorch/minitorch
-GPU-Puzzles: github.com/srush/GPU-Puzzles
-machine-learning-articles: github.com/christianversloot/machine-learning-articles
-complexity-tom-dwm: github.com/Flecart/complexity-tom-dwm
-acsai: github.com/lordPachy/acsai
-Made-With-ML: github.com/GokuMohandas/Made-With-ML
-applied-ml: github.com/eugeneyan/applied-ml
-openpilot: github.com/commaai/openpilot
-letsbuild-ai: github.com/aprxi/letsbuild-ai
-software-papers: github.com/facundoolano/software-papers
-spacebar: github.com/cmacrae/spacebar
-awesome-cold-showers: github.com/hwayne/awesome-cold-showers
-financial-machine-learning: github.com/firmai/financial-machine-learning
-40-questions: github.com/kepano/40-questions
-aoc-2023: github.com/Rugvip/aoc-2023
-interfaces: github.com/raunofreiberg/interfaces
-design-resources-for-developers: github.com/bradtraversy/design-resources-for-developers
-numbat: github.com/sharkdp/numbat
-Focus-for-Youtube: github.com/hadig/Focus-for-Youtube
-machine-learning-interview: github.com/khangich/machine-learning-interview
-reverse-interview: github.com/viraptor/reverse-interview
-build-your-own-x: github.com/codecrafters-io/build-your-own-x
-project-based-learning: github.com/practical-tutorials/project-based-learning
-RIP-mock-interviews: github.com/DavidGerva/RIP-mock-interviews
-isowords: github.com/pointfreeco/isowords
-git-flight-rules: github.com/k88hudson/git-flight-rules
-Seeing-Theory: github.com/seeingtheory/Seeing-Theory
-NumMeth-s2-2023: github.com/erodola/NumMeth-s2-2023
-what-happens-when: github.com/alex/what-happens-when
-fromthetransistor: github.com/geohot/fromthetransistor
-fucking-algorithm: github.com/labuladong/fucking-algorithm
-sherlock: github.com/sherlock-project/sherlock
-cphb: github.com/pllk/cphb
-Marketing-for-Engineers: github.com/goabstract/Marketing-for-Engineers
-aegeorge42.github.io: github.com/aegeorge42/aegeorge42.github.io
-computer-science: github.com/ossu/computer-science
+krasun/howbrowserswork
+ertdfgcvb/play.core
+jonhoo/thesquareplanet.com
+benbjohnson/thesecretlivesofdata
+raft/raft.github.io
+iacobucci/lispv
+tw93/Mole
+imthenachoman/How-To-Secure-A-Linux-Server
+exo-explore/exo
+munificent/craftinginterpreters
+andrea-berling/blog_os
+algorithmicsuperintelligence/openevolve
+magiblot/tvterm
+magic-wormhole/magic-wormhole
+DGoettlich/history-llms
+newsraft/newsraft
+tsl0922/ttyd
+Maxteabag/sqlit
+samwho/visualisations
+IAmTomShaw/f1-race-replay
+hpjansson/chafa
+facundoolano/jorge
+bearcove/dodeca
+tree-sitter/tree-sitter
+antirez/toyforth
+susam/tucl
+susam/mvs
+jblanked/awesome-pico-calc
+gabwithcli/ddd-kit
+charmbracelet/wish
+charmbracelet/glow
+sqlite/sqlite-wasm
+ivoronin/TomatoBar
+antirez/historical-redis-versions
+tmikolov/word2vec
+antirez/stonky
+antirez/botlib
+naltun/dotfiles
+sheredom/hashmap.h
+petewarden/c_hashmap
+SchedMD/slurm
+ludocomito/learning-diffusion
+robalexdev/blog-quest
+tvler/streetpass
+rrthomas/hpmor
+gunnarmorling/1brc
+cs50/libcs50
+gvanrossum/abc-unix
+signalapp/Signal-iOS
+tigerbeetle/tigerbeetle
+kelvinou01/memory-mountain
+ioccc-src/winner
+anders94/blockchain-demo
+0xhckr/ghostty-shaders
+arpxspace/smartcommit
+MiniGlome/Archive.org-Downloader
+antirez/RESP3
+afadil/wealthfolio
+dwrensha/animate-lean-proofs
+yjs/yjs
+AdaCore/gnatstudio
+AdaCore/spark2014
+dafny-lang/dafny
+ucsd-progsys/liquidhaskell
+kuterd/very_simple_compiler
+acdlite/react-fiber-architecture
+nginx/nginx
+blender/blender
+emscripten-core/emscripten
+ffmpegwasm/ffmpeg.wasm
+krausest/js-framework-benchmark
+AlessandroTambellini/Postream
+antirez/dump1090
+hwayne/hacker-test-history
+hwayne/learntla-v2
+hwayne/lets-prove-leftpad
+perkeep/perkeep
+libfuse/libfuse
+kavishdevar/librepods
+raulcd/datanomy
+AsahiLinux/m1n1
+swaywm/sway
+antirez/hnstyle
+purupuddu/backpropagation
+edomora97/stuff
+purupuddu/42-cursus
+cp-sapienza/booklet
+aurasphere/gomorra-sql
+thesephist/tabloid
+tinkersec/writerdeckOS
+iamleot/transferwee
+little-book-of/c
+ossu/bioinformatics
+berkeleydb/libdb
+hackclub/how-did-i-get-here
+cstack/db_tutorial
+jwohlwend/boltz
+xiaoxiae/videos
+antoniosarosi/sqlite2-btree-visualizer
+pizlonator/fil-c
+aleixrodriala/wa-tunnel
+spylang/spy
+petewarden/iPhoneTracker
+antirez/neural-redis
+antirez/disque
+antirez/otree
+antirez/LLM-FTC-sampling
+micropython/micropython
+leafac/kill-the-newsletter
+XQuartz/XQuartz
+s1liconcow/autoapp
+samrolken/nokode
+EmilHernvall/dnsguide
+extesy/99-problems
+extesy/hoverzoom
+richardjrossiii/CBasediOSApp
+pomber/didact
+cappuccino/cappuccino
+xournalpp/xournalpp
+python-trio/outcome
+loro-dev/loro
+attogram/bash-screensavers
+jetkvm/kvm
+obsproject/obs-studio
+rolflobker/recall-for-linux
+torch2424/wasm-by-example
+microsoft/agent-lightning
+lit/lit
+tidalcycles/strudel
+tidalcycles/Tidal
+hauxir/macos-live-screensaver
+sivers/sivers
+morpho-matters/morpholib
+karpathy/LLM101n
+ofou/graham-essays
+opendilab/awesome-RLVR
+Cube9999/vi
+awesome-selfhosted/awesome-selfhosted
+teamtype/teamtype
+github/spec-kit
+partykit/sketch-waterhole
+ed-donner/llm_engineering
+janestreet/patdiff
+janestreet/async
+RedisGraph/RedisGraph
+gpjt/os-from-scratch
+gpjt/llm-from-scratch
+dspinellis/unix-history-repo
+mburakerman/cambridge-cli
+d3uceY/minimal-dictionary
+GitSquared/edex-ui
+wertstahl/AmigaMidiRec
+irony/aspipes
+samhenrigold/LidAngleSensor
+alexferrari88/sbstck-dl
+ros2/ros2
+ivanyu/awesome-deterministic-simulation-testing
+F4bbi/manim-dsa
+objective-see/LuLu
+nchudleigh/vimac
+Chalarangelo/30-seconds-of-interviews
+timqian/one-goal
+headllines/hackernews-daily
+alandipert/ncsa-mosaic
+cfenollosa/os-tutorial
+amelioro/ameliorate
+eze-kiel/carryless
+ryanrasti/typegres
+dahlend/kete
+epidemian/snake
+vincentneo/LosslessSwitcher
+ExistentialAudio/BlackHole
+ollama/ollama
+JerryZLiu/Dayflow
+goudvuur/sonshell
+yt-dlp/yt-dlp
+keith/dotfiles
+kdeldycke/awesome-falsehood
+mtdvio/every-programmer-should-know
+essej/paulxstretch
+rastapasta/mapscii
+slidevjs/slidev
+homebrew-zathura/homebrew-zathura
+pwmt/zathura
+sympy/sympy
+rougier/braincraft
+posquit0/Awesome-CV
+Zer0-bit/gaggiuino
+defunkt/unicorn
+zakirullin/cognitive-load
+jj-for-everyone/jj-for-everyone.github.io
+truell20/awesome-programming-competitions
+jina-ai/reader
+xcaeser/cm
+luisfer/ubon
+dmotz/trystero
+jaymody/picoGPT
+karpathy/llama2.c
+cozis/BlogTech
+fossjobs/fossjobs
+commaai/opendbc
+Skydio/revup
+janestreet/iron
+antirez/lamernews
+antirez/sds
+FFmpeg/FFmpeg
+FFmpeg/asm-lessons
+loonghao/photoshop-python-api-mcp-server
+mikechambers/adb-mcp
+apvlv/davinci-resolve-mcp
+samuelgursky/davinci-resolve-mcp
+caronc/apprise
+skyzh/mini-lsm
+jackielii/skhd.zig
+bloznelis/typioca
+jax-ml/scaling-book
+jarulraj/periodic-table
+asmvik/skhd
+osmandkitay/aura
+CapSoftware/Cap
+apache/spark
+palantir/conjure
+palantir/plottable
+palantir/blueprint
+geohot/ai-notebooks
+geohot/corona
+geohot/minikeyvalue
+geohot/configuration
+pointfreeco/swift-composable-architecture
+trpc/trpc
+kedro-org/kedro
+anishathalye/dotfiles
+redis/redis
+Exorust/TorchLeet
+OpenCut-app/OpenCut
+RapidataAI/human-use
+leadthefuture/ML-and-DataScience-preparation
+kscalelabs/kbot
+sendhil/yabai-stack-navigator
+qutebrowser/qutebrowser
+asmvik/yabai
+stanford-oval/storm
+swyxio/README
+swyxio/ai-notes
+x1xhlol/system-prompts-and-models-of-ai-tools
+jujumilk3/leaked-system-prompts
+tanishqkumar/beyond-nanogpt
+zeenolife/ai-baby-monitor
+VICE-Team/svn-mirror
+padolsey/at.hn
+searxng/searxng
+zsxkib/samurai
+KoKuToru/de-pixelate_gaV-O6NPWrI
+jsiek/deduce
+AiTerminalFoundation/ai-terminal
+antirez/ttt-rl
+wild-card-ai/agents-json
+TiaBerte/masked-face
+henrythe9th/AI-Crash-Course
+desgeeko/pdfsyntax
+antirez/kilo
+c100k/libmodulor
+t3dotgg/stripe-recommendations
+type-challenges/type-challenges
+ThomasRinsma/pdftris
+afroald/dvd-screensaver-website
+donnemartin/system-design-primer
+Olshansk/postgres_for_everything
+ZantFoundation/Z-Ant
+circlemind-ai/fast-graphrag
+maybe-finance/maybe
+dominikus/titledrops.net
+FranxYao/chain-of-thought-hub
+davila7/AIXP
+xnuohz/awesome-drug-discovery
+ligurio/practical-fm
+dshah3/GPU-Puzzles
+abeleinin/Metal-Puzzles
+minitorch/minitorch
+srush/GPU-Puzzles
+christianversloot/machine-learning-articles
+Flecart/complexity-tom-dwm
+lordPachy/acsai
+GokuMohandas/Made-With-ML
+eugeneyan/applied-ml
+commaai/openpilot
+aprxi/letsbuild-ai
+facundoolano/software-papers
+cmacrae/spacebar
+hwayne/awesome-cold-showers
+firmai/financial-machine-learning
+kepano/40-questions
+Rugvip/aoc-2023
+raunofreiberg/interfaces
+bradtraversy/design-resources-for-developers
+sharkdp/numbat
+hadig/Focus-for-Youtube
+khangich/machine-learning-interview
+viraptor/reverse-interview
+codecrafters-io/build-your-own-x
+practical-tutorials/project-based-learning
+DavidGerva/RIP-mock-interviews
+pointfreeco/isowords
+k88hudson/git-flight-rules
+seeingtheory/Seeing-Theory
+erodola/NumMeth-s2-2023
+alex/what-happens-when
+geohot/fromthetransistor
+labuladong/fucking-algorithm
+sherlock-project/sherlock
+pllk/cphb
+goabstract/Marketing-for-Engineers
+aegeorge42/aegeorge42.github.io
+ossu/computer-science
