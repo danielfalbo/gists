@@ -1,3 +1,4 @@
+gerrymanoim/pinboard-rss-gha
 lobsters/lobsters
 algorithmica-org/algorithmica
 krasun/howbrowserswork
