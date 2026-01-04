@@ -1,3 +1,4 @@
+lobsters/lobsters
 algorithmica-org/algorithmica
 krasun/howbrowserswork
 ertdfgcvb/play.core
