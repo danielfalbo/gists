@@ -1,0 +1,6 @@
+  Source                           |  Destination
+  -----------------------------------------------------------
+  ^https?://x.com/(.*)             |  https://xcancel.com/$1
+  ^https?://twitter.com/(.*)       |  https://xcancel.com/$1
+  ^https?://instagram.com/(.*)     |  https://imginn.com/$1
+  ^https?://www.instagram.com/(.*) |  https://imginn.com/$1
