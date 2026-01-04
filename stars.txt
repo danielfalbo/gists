@@ -1,3 +1,4 @@
+algorithmica-org/algorithmica
 krasun/howbrowserswork
 ertdfgcvb/play.core
 jonhoo/thesquareplanet.com
