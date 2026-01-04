@@ -1,3 +1,4 @@
+ertdfgcvb/play.core: https://github.com/ertdfgcvb/play.core?tab=readme-ov-file
 thesquareplanet.com: github.com/jonhoo/thesquareplanet.com
 thesecretlivesofdata: github.com/benbjohnson/thesecretlivesofdata
 raft.github.io: github.com/raft/raft.github.io
