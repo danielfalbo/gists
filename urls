@@ -139,7 +139,8 @@ https://youtube.com/feeds/videos.xml?channel_id=UCDeisrw55Yl8b1f-G2zPyrw
 # raptitude
 https://raptitude.com/feed/
 
-# more entropy for life
+# more entropy / entropy for life
+https://youtube.com/feeds/videos.xml?channel_id=UCQPnCKNfzKn4OmPrx1KDWvg
 https://youtube.com/feeds/videos.xml?channel_id=UC1DK1emDs_9d6yU5SRs8L6w
 
 # epic spaceman
@@ -158,7 +159,7 @@ https://hnrss.org/user?id=cperciva
 # github
 https://github.com/idanov.atom
 https://github.com/nilskch.atom
-https://github.com/antirez.atom
+# https://github.com/antirez.atom
 https://github.com/andrejvelichkovski.atom
 https://github.com/sivers.atom
 https://github.com/gabwithcli.atom
