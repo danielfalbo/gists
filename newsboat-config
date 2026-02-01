@@ -1,7 +1,8 @@
 # ~/.newsboat/config
 
 # Use default macOS browser
-browser "open %u"
+# browser "open %u"
+browser "ghostty +icat %u"
 
 # Automatically update feeds when Newsboat starts
 auto-reload yes
