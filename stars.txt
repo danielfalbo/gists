@@ -1,3 +1,5 @@
+cpcloud/micasa
+sstraust/shannonmax
 eljojo/rememory
 zpoint/CPython-Internals
 duckdb/duckdb
