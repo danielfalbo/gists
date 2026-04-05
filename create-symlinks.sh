@@ -11,3 +11,7 @@ mkdir -p ~/.newsboat/
 ln -sf "${BASEDIR}/urls" ~/.newsboat/urls
 /bin/rm -f ~/.newsboat/config
 ln -sf "${BASEDIR}/newsboat-config" ~/.newsboat/config
+
+mkdir -p ~/.codex/
+/bin/rm -f ~/.codex/AGENTS.md
+ln -sf "${BASEDIR}/AGENTS.md" ~/.codex/AGENTS.md
