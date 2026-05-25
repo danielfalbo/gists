@@ -4,6 +4,7 @@ set -euo pipefail
 SIGNAL_URL="${SIGNAL_URL:-http://100.110.199.94:9888/v1/signal}"
 POLL_SEC="${POLL_SEC:-1}"
 START_TIMEOUT_SEC="${START_TIMEOUT_SEC:-10}"
+DIM_DELAY_SEC="${DIM_DELAY_SEC:-6}"
 
 dim_lights() {
   if [[ -n "${DIM_SCRIPT:-}" ]]; then
@@ -49,22 +50,36 @@ tell application "Music"
   end try
 
   set sound volume to 100
-
-  if exists user playlist tmpName then
-    delete user playlist tmpName
-  end if
-
-  set tmp to make new user playlist with properties {name:tmpName}
-  duplicate songTrack to tmp
   set song repeat to off
   set shuffle enabled to false
-  play tmp
-  set player position to 0
+
+  set pid to persistent ID of songTrack
+  set fromTmp to false
+  try
+    if (name of container of songTrack) is tmpName then set fromTmp to true
+  end try
+
+  if fromTmp then
+    if player state is playing then pause
+    back track
+    play user playlist tmpName
+  else
+    if exists user playlist tmpName then delete user playlist tmpName
+    set tmp to make new user playlist with properties {name:tmpName}
+    try
+      set src to (first track of library playlist 1 whose persistent ID is pid)
+      duplicate src to tmp
+    on error
+      duplicate songTrack to tmp
+    end try
+    play tmp
+  end if
 end tell
 EOF
 }
 
 dim_lights
+sleep "$DIM_DELAY_SEC"
 prepare_and_play
 
 deadline=$((SECONDS + START_TIMEOUT_SEC))
