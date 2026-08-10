@@ -15,3 +15,7 @@ ln -sf "${BASEDIR}/newsboat-config" ~/.newsboat/config
 mkdir -p ~/.codex/
 /bin/rm -f ~/.codex/AGENTS.md
 ln -sf "${BASEDIR}/AGENTS.md" ~/.codex/AGENTS.md
+
+mkdir -p ~/.pi/agent/
+/bin/rm -f ~/.pi/agent/AGENTS.md
+ln -sf "${BASEDIR}/AGENTS.md" ~/.pi/agent/AGENTS.md
